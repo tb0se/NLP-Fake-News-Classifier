@@ -29,7 +29,7 @@ Recommended to use Anaconda for managing your environment.
         conda activate ENV
     ```
 3. Verify new environment was installed correctly
-    ``bash
+    ```bash
         conda env list
     ```
 
@@ -52,6 +52,8 @@ Recommended to use Anaconda for managing your environment.
 * [Lena Voita: NLP Course|For you](https://lena-voita.github.io/nlp_course.html)
 
 ## Future Work
-* Improve Perfromance of the Recurrent Neural Network
-* Collect more data
-* Implement a Language Model such as [BERT](https://arxiv.org/abs/1810.04805)
+* Improve Performance of the Recurrent Neural Network.
+* Collect more data.
+* Implement a [RCNN model](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552).
+* Implement a Language Model such as [BERT](https://arxiv.org/abs/1810.04805).
+
